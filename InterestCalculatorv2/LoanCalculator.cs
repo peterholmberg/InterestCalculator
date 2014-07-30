@@ -1,0 +1,7 @@
+﻿namespace InterestCalculator
+{
+    class LoanCalculator
+    {
+
+    }
+}

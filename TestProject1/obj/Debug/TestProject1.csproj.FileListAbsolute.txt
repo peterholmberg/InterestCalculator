@@ -1,0 +1,10 @@
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\TestProject1\bin\Debug\TestProject1.dll
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\TestProject1\bin\Debug\TestProject1.pdb
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\TestProject1\obj\Debug\TestProject1.dll
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\TestProject1\obj\Debug\TestProject1.pdb
+C:\Documents and Settings\PEHOB\Desktop\InterestCalculator\TestProject1\bin\Debug\TestProject1.dll
+C:\Documents and Settings\PEHOB\Desktop\InterestCalculator\TestProject1\bin\Debug\TestProject1.pdb
+C:\Documents and Settings\PEHOB\Desktop\InterestCalculator\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PEHOB\Desktop\InterestCalculator\TestProject1\obj\Debug\TestProject1.dll
+C:\Documents and Settings\PEHOB\Desktop\InterestCalculator\TestProject1\obj\Debug\TestProject1.pdb

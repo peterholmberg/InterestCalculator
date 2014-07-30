@@ -1,0 +1,318 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:App.xaml" caret="0" fromTop="0" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:App.xaml.cs" caret="75" fromTop="4" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="1370" fromTop="34" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InterestTest.cs" caret="886" fromTop="29" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml.cs" caret="822" fromTop="27" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:Interest.cs" caret="1415" fromTop="36" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="1" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="442" fromTop="46" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="6615" fromTop="36" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="6415" fromTop="33" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="1968" fromTop="18" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="6415" fromTop="14" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:Interest.cs" caret="2605" fromTop="29" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:Interest.cs" caret="244" fromTop="9" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml.cs" caret="1947" fromTop="14" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml.cs" caret="2939" fromTop="26" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml.cs" caret="3395" fromTop="35" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="2348" fromTop="24" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="2147" fromTop="19" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2143" fromTop="30" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="7080" fromTop="34" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="7595" fromTop="40" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="6470" fromTop="29" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="4591" fromTop="5" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="39" fromTop="2" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="36" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="29" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="12" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="23" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="43" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="1842" fromTop="48" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="440" fromTop="7" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="994" fromTop="29" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="1641" fromTop="36" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InvestmentsTest.cs" caret="2059" fromTop="48" />
+      <File id="E76B0C88-5E3D-4F83-8BC5-6C0EB4D5C948/f:InterestTest.cs" caret="883" fromTop="28" />
+      <File id="ACA768D8-BBBA-4A33-8DA0-0411189776E0/f:MainWindow.xaml" caret="973" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="21" />
+      <Item value="void" priority="10" />
+      <Item value="amortizationAmount" priority="5" />
+      <Item value="loanAmount" priority="22" />
+      <Item value="loanInterestRate" priority="31" />
+      <Item value="perMonthTextBox" priority="13" />
+      <Item value="calculateMonthlyCost`0" priority="2" />
+      <Item value="decimal" priority="74" />
+      <Item value="result" priority="22" />
+      <Item value="return" priority="25" />
+      <Item value="double" priority="29" />
+      <Item value="if" priority="9" />
+      <Item value="null" priority="5" />
+      <Item value="false" priority="1" />
+      <Item value="Visibility`0" priority="1" />
+      <Item value="Decimal`0" priority="1" />
+      <Item value="var" priority="35" />
+      <Item value="try" priority="2" />
+      <Item value="e" priority="4" />
+      <Item value="XamlGeneratedNamespace" priority="0" />
+      <Item value="interestConversion" priority="0" />
+      <Item value="string" priority="29" />
+      <Item value="int" priority="6" />
+      <Item value="roundResult" priority="0" />
+      <Item value="calculateYearlyInterestCost`0" priority="8" />
+      <Item value="perYearTextBox" priority="6" />
+      <Item value="for" priority="5" />
+      <Item value="Interest`0" priority="18" />
+      <Item value="static" priority="19" />
+      <Item value="MessageBox`0" priority="3" />
+      <Item value="else" priority="6" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="7" />
+      <Item value="break" priority="6" />
+      <Item value="Int32Rect`0" priority="0" />
+      <Item value="label1" priority="5" />
+      <Item value="slider1" priority="3" />
+      <Item value="loanAmountSlider" priority="29" />
+      <Item value="new" priority="12" />
+      <Item value="InterestCalculator" priority="1" />
+      <Item value="NullReferenceException`0" priority="1" />
+      <Item value="Convert`0" priority="6" />
+      <Item value="true" priority="1" />
+      <Item value="IsMouseOverProperty" priority="0" />
+      <Item value="IsMouseDirectlyOverProperty" priority="0" />
+      <Item value="loanAmountSlider_MouseWheel`0" priority="0" />
+      <Item value="amortizationLabel" priority="1" />
+      <Item value="amortizationSlider" priority="33" />
+      <Item value="amortizationedLoan" priority="0" />
+      <Item value="amortizationValue" priority="0" />
+      <Item value="public" priority="19" />
+      <Item value="loanAmountInterestRate" priority="6" />
+      <Item value="amortiazationAmount" priority="1" />
+      <Item value="List" priority="10" />
+      <Item value="List&lt;decimal&gt;" priority="2" />
+      <Item value="monthlyDecreaseList" priority="6" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="month" priority="5" />
+      <Item value="i" priority="3" />
+      <Item value="calculatedMonthlyDecrease`0" priority="1" />
+      <Item value="decrease" priority="1" />
+      <Item value="calculateMonthlyInterestCost`0" priority="3" />
+      <Item value="loan" priority="6" />
+      <Item value="interestRate" priority="3" />
+      <Item value="amortization" priority="2" />
+      <Item value="interestCost" priority="0" />
+      <Item value="Slider" priority="2" />
+      <Item value="Slider`0" priority="1" />
+      <Item value="_amortSlider" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="loanAmountSlider_ValueChanged`0" priority="0" />
+      <Item value="amortizationSlider_ValueChanged`0" priority="0" />
+      <Item value="yearlyDecreaseList" priority="4" />
+      <Item value="EnvironmentVariableTarget`0" priority="2" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="_loan" priority="13" />
+      <Item value="_interestRate" priority="11" />
+      <Item value="_amortization" priority="3" />
+      <Item value="while" priority="1" />
+      <Item value="j" priority="0" />
+      <Item value="year" priority="6" />
+      <Item value="_yearlyCostDecreaseList" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="using" priority="3" />
+      <Item value="loanLabel" priority="3" />
+      <Item value="topLoanInterestRate" priority="2" />
+      <Item value="LineStackingStrategy`0" priority="4" />
+      <Item value="_monthlyDecrease" priority="2" />
+      <Item value="SetUp" priority="1" />
+      <Item value="InterestCalculatorTest" priority="1" />
+      <Item value="_interest" priority="0" />
+      <Item value="TearDown" priority="0" />
+      <Item value="Assert`0" priority="7" />
+      <Item value="LOAN_INTEREST_RATE" priority="1" />
+      <Item value="LOAN_AMOUNT" priority="0" />
+      <Item value="monthlyFeeLabel" priority="2" />
+      <Item value="monthlyFeeSlider" priority="7" />
+      <Item value="topLoanLabel" priority="1" />
+      <Item value="topLoanSlider" priority="2" />
+      <Item value="loanInterestRateValueChanged`0" priority="1" />
+      <Item value="_yearlyDecrease" priority="0" />
+      <Item value="MonthlyDecrease" priority="2" />
+      <Item value="YearlyDecrease" priority="1" />
+      <Item value="monthlyFeeSliderValueChanged`0" priority="0" />
+      <Item value="graphTextBox" priority="0" />
+      <Item value="perYearTextBox_Initialized`0" priority="0" />
+      <Item value="monthlyLoanCost" priority="0" />
+      <Item value="topLoanAmortizationLabel" priority="2" />
+      <Item value="topLoanAmortizationSlider" priority="2" />
+      <Item value="topLoanAmortizationSliderValueChanged`0" priority="0" />
+      <Item value="topLoanSliderValueChanged`0" priority="0" />
+      <Item value="Test" priority="1" />
+      <Item value="ContentElement`0" priority="1" />
+      <Item value="const" priority="7" />
+      <Item value="yearCounter" priority="1" />
+      <Item value="IEnumerable" priority="3" />
+      <Item value="CalculateMonthlyDecrease" priority="3" />
+      <Item value="CalculateYearlyCost" priority="3" />
+      <Item value="forecastedMonthlyDecrease" priority="1" />
+      <Item value="_contract" priority="2" />
+      <Item value="contract" priority="0" />
+      <Item value="CalculateForecastedCost" priority="2" />
+      <Item value="monthCounter" priority="5" />
+      <Item value="CaptureStylus`0" priority="1" />
+      <Item value="doSomeShit`0" priority="2" />
+      <Item value="Assert" priority="0" />
+      <Item value="INTEREST" priority="2" />
+      <Item value="YEAR" priority="2" />
+      <Item value="FUTUREVALUE" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="interest" priority="11" />
+      <Item value="presentValue" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="futurevalue" priority="7" />
+      <Item value="Math`0" priority="6" />
+      <Item value="res" priority="1" />
+      <Item value="result1" priority="0" />
+      <Item value="months" priority="0" />
+      <Item value="monthlyAmount" priority="0" />
+      <Item value="Investments`0" priority="1" />
+      <Item value="MONTHLYAMOUNT" priority="0" />
+      <Item value="MONTHS" priority="0" />
+      <Item value="startvalue" priority="0" />
+      <Item value="STARTVALUE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Windows.Controls.DecimalUpDown">
+      <Item value="Value" priority="20" />
+      <Item value="Visibility" priority="3" />
+      <Item value="IsMouseDirectlyOver" priority="0" />
+      <Item value="ValueChanged" priority="1" />
+      <Item value="DefaultValue" priority="3" />
+      <Item value="Watermark" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal`0" priority="1" />
+      <Item value="ToInt16`0" priority="0" />
+      <Item value="ToInt32`0" priority="8" />
+      <Item value="ToDouble`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="15" />
+      <Item value="AppendText`0" priority="13" />
+      <Item value="Clear`0" priority="4" />
+      <Item value="ContextMenu" priority="0" />
+      <Item value="Initialized" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Hidden" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse`0" priority="7" />
+      <Item value="TryParse`0" priority="0" />
+      <Item value="Round`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="18" />
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@InterestCalculator.Interest">
+      <Item value="calculateYearlyInterestCost`0" priority="1" />
+      <Item value="calculateMonthlyInterestCost`0" priority="6" />
+      <Item value="calculatedMonthlyDecrease`0" priority="6" />
+      <Item value="calculateYearlyDecrease`0" priority="0" />
+      <Item value="calculateYearlyCost`0" priority="6" />
+      <Item value="calculateYearlyLoanCost`0" priority="0" />
+      <Item value="calculateForecastedCost`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="14" />
+      <Item value="Template" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Slider">
+      <Item value="Value" priority="66" />
+      <Item value="Interval" priority="0" />
+      <Item value="TickFrequency" priority="0" />
+      <Item value="IsSnapToTickEnabled" priority="0" />
+      <Item value="ValueChanged" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.MessageBoxResult">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="6" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.RoutedPropertyChangedEventArgs`1">
+      <Item value="NewValue" priority="0" />
+      <Item value="RoutedEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@InterestCalculatorTest.Investments">
+      <Item value="calculateAnnuitet`0" priority="0" />
+      <Item value="futurevalue`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

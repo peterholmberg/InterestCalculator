@@ -1,0 +1,15 @@
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.csprojResolveAssemblyReference.cache
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\App.g.cs
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2_MarkupCompile.cache
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\MainWindow.baml
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\MainWindow.g.cs
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.g.resources
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.Properties.Resources.resources
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.csproj.GenerateResource.Cache
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\bin\Debug\InterestCalculatorv2.exe
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\bin\Debug\InterestCalculatorv2.pdb
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\bin\Debug\WPFToolkit.dll
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\bin\Debug\WPFToolkit.Extended.dll
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\bin\Debug\WPFToolkit.pdb
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.exe
+D:\Personal\Dropbox\Dev\C#\InterestCalculator\InterestCalculatorv2\obj\x86\Debug\InterestCalculatorv2.pdb
